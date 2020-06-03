@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2020-06-02T01:55:00Z</lastmod>
+  <lastmod>2020-06-03T01:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
@@ -32,5 +32,9 @@
  <url>
   <loc>https://example.com/posts/dfw-python-first-blog-post/</loc>
   <lastmod>2020-06-02T01:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/dfw-restructuredtext-post/</loc>
+  <lastmod>2020-06-03T01:19:00Z</lastmod>
  </url>
 </urlset>
